@@ -1,0 +1,76 @@
+
+body{
+	background: #ffd6f4;
+	font-family: sans-serif;
+}
+
+.wrap{
+	width: 600px;
+	margin: auto;
+
+}
+
+.header{
+	font-size: 75px;
+	margin: 25px 0;
+	text-align: center;
+	position: relative;
+	right: 15px;
+	letter-spacing: -5px;
+	font-family: sans-serif;
+}
+
+.content {
+	width: 450px;
+	box-sizing: border-box;
+	padding-right: 20px;
+	float: left;
+}
+
+.list {
+	width: 150px;
+	float: right;
+}
+
+.list a{
+	color: black;
+	text-decoration: none;
+
+}
+
+.list li{
+	margin-bottom: 5px;
+}
+
+.list a:hover{
+	color: black;
+	text-decoration: underline;
+}
+
+blockquote{
+	border:1px solid white ;
+	text-align: center;
+	margin-left: 0;
+}
+
+.skill{
+	padding-left: 30px;
+}
+
+.skill-info{
+	padding-left: 60px;
+}
+
+
+/***********************
+======   =portfolio   ======
+***********************/
+
+.body{
+	width: 960px;
+	margin: auto;
+	background:#c5c8cc;
+	border-radius: 6px;
+}
+
+
